@@ -1,13 +1,14 @@
-# README
-## This is the README for your extension "metropolis-minimal"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Metropolis Minimal
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+## A minimal VS Code theme based on [GMK Metropolis](https://en.zfrontier.com/products/gmk-metropolis)
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## For more information
 
-**Enjoy!**
+- [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
+- [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+
+## Contributing
+
+Please note that this project is released with a Contributor [Code of Conduct](code_of_conduct.md). By participating in this project you agree to abide by its terms.
+
+## [License](LICENSE.MD)

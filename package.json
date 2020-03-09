@@ -2,7 +2,7 @@
   "name": "metropolis-minimal",
   "displayName": "Metropolis Minimal",
   "description": "A minimal VS Code theme based on GMK Metropolis",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.42.0"
   },
@@ -29,7 +29,7 @@
     }
   },
   "lint-staged": {
-    "*.tsx?": [
+    "*.{ts,json,md}": [
       "prettier --write",
       "git add"
     ]
