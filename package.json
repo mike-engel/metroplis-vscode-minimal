@@ -4,7 +4,7 @@
   "description": "A minimal VS Code theme based on GMK Metropolis",
   "author": "Mike Engel <mike@mike-engel.com>",
   "publisher": "beardfury",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mike-engel/metroplis-vscode-minimal"
