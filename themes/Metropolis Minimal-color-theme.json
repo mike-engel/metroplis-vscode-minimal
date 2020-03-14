@@ -74,7 +74,7 @@
 		"editor.findRangeHighlightBackground": "#00C7BA7F",
 		"editor.findRangeHighlightBorder": "#00C7BA00",
 		"editor.focusedStackFrameHighlightBackground": "#00C7BA7F",
-		"editor.foldBackground": "#E8EFF5D7",
+		"editor.foldBackground": "#E8EFF54D",
 		"editor.foreground": "#E8EFF5",
 		"editor.hoverHighlightBackground": "#00C7BA7F",
 		"editor.inactiveSelectionBackground": "#00C7BABF",
@@ -106,7 +106,7 @@
 		"editorCursor.background": "#E8EFF5CC",
 		"editorCursor.foreground": "#E8EFF5",
 
-		"editorError.border": "#EA3503",
+		"editorError.border": "#EA350300",
 		"editorError.foreground": "#EA3503",
 
 		"editorGroup.border": "#132939",
@@ -134,7 +134,7 @@
 		"editorIndentGuide.activeBackground": "#E8EFF550",
 		"editorIndentGuide.background": "#E8EFF550",
 
-		"editorInfo.border": "#00C7BA",
+		"editorInfo.border": "#00C7BA00",
 		"editorInfo.foreground": "#00C7BA",
 
 		"editorLightBulb.foreground": "#00C7BA",
@@ -180,7 +180,7 @@
 		"editorUnnecessaryCode.border": "#05192800",
 		"editorUnnecessaryCode.opacity": "#000000C0",
 
-		"editorWarning.border": "#FFBB08",
+		"editorWarning.border": "#FFBB0800",
 		"editorWarning.foreground": "#FFBB08",
 
 		"editorWidget.background": "#132939",
